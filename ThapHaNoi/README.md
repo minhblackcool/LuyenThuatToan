@@ -1,1 +1,1 @@
-
+28/12 -Tìm kiếm thông tin cần thiết +Tim hiểu về đệ quy trên tiktok và Ytb +Tìm hiểu và chơi thử trò chơi tháp Hà Nội -tư duy code Có 3 tháp A B C và có 5 tầng Muốn di chuyển hết tầng từ A qua C phải +Di chuyen n-1 tang qua B thông qua trung gian là C +Chuyển tầng lớm nhất qua C +Chuyển n-1 tầng qua C trung gian là A -Code gọi hàm tháp Hà Nội -A B C là 3 tháp -n là Số Tầng Điểm dừng là khi n==1 thì chuyển đĩa 1 từ A sang C 29/12 Tìm hiểu về github và cách sử dụng
